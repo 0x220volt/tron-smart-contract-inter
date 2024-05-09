@@ -46,3 +46,5 @@ deploySmartContract()
     .then(() => interactWithSmartContract())
     .then(() => queryContractInfo())
     .catch((error) => console.error(error));
+
+# tron-smart-contract-inter   
